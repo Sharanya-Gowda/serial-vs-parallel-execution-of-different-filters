@@ -1,5 +1,0 @@
-Filter,SerialTime,ParallelTime,Speedup
-Sharpen,2.42966,0.374668,6.48482
-Gaussian_Blur,2.33828,0.474015,4.93291
-Edge_Detection,3.41059,0.514483,6.62916
-Sobel,5.32557,0.6941,7.67262

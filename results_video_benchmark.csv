@@ -1,0 +1,5 @@
+Filter,TotalSerialTime(s),TotalParallelTime(s),Speedup
+Sharpen,38.8199,9.98683,3.88711
+Gaussian,38.1008,9.88184,3.85563
+Edge,47.7694,10.9635,4.35713
+Sobel,69.7218,15.1448,4.60369
