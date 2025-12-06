@@ -19,3 +19,21 @@ build/
 # Ignore virtual environments (if any)
 venv/
 .env/
+
+.test_vedio.mp4
+.test_vedio2.mp4
+.test_vedio3.mp4
+
+.out_edge.mp4
+.out_gaussian.mp4
+.out_sharpen.mp4
+.out_sobel.mp4
+
+.Sharpen_result.jpg
+.Sobel_result.jpg
+.test_image.jpg
+.test_image2.jpg
+.Edge_result.jpg
+.Gaussian_result.jpg
+
+.multicore.*.mp4
