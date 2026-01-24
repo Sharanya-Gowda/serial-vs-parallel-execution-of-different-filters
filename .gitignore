@@ -37,3 +37,7 @@ venv/
 .Gaussian_result.jpg
 
 .multicore.*.mp4
+# Ignore all MP4 and JPG result files
+*.mp4
+*.jpg
+*.png
